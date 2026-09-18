@@ -1,15 +1,32 @@
-# Calculator
-Create your own Python Calculator App using Python and tkinter.
+# simple-calculator
 
-Video Link: [https://youtu.be/QZPv1y2znZo](https://youtu.be/QZPv1y2znZo)
+A simple calculator application developed using Python and Tkinter.
 
-![Calculator App](calculator.png)
+## Features
 
----
+- Basic arithmetic operations
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Percentage
+- Backspace
+- Clear
+- Plus/Minus
+- Scientific functions
+- Calculation history
+- Keyboard support
+- Dark theme
 
-## Create Standalone Executable
+## Technologies Used
 
-```shell
-pip install pyinstaller
-pyinstaller --onefile -w calc.py
-```
+- Python
+- Tkinter
+- Math
+
+## How to Run
+
+1. Install Python.
+2. Download or clone this repository.
+3. Open the project folder.
+4. Run: python calculator.py
